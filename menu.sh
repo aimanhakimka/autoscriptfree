@@ -21,4 +21,4 @@ echo -e "* about      : Informasi Tentang script Auto install WrShop"
 echo -e "========================================================================="
 echo -e ""
 echo "hellooo"
-menu
+speedtest
