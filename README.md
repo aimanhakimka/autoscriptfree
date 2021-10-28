@@ -4,6 +4,6 @@ Feature script Auto-Install :  OpenSSH, port : 22, 80 Dropbear, port : 143, 443 
 
 Pastikan juga VPS masih ksong. 
 
-Auto-Install Script :-  apt-get install wget &amp;&amp; wget https://raw.github.com/aimanhakimka/autoscriptfree/wrshop/debian10.sh &amp;&amp; ./debian7.sh
+Auto-Install Script :-  apt-get install wget &amp;&amp; wget https://raw.github.com/aimanhakimka/autoscriptfree/wrshop/debian10.sh &amp;&amp; ./debian10.sh
 
 Singgah kedai saya: https://shopee.com.my/wrshop0405?smtt=0.0.9
